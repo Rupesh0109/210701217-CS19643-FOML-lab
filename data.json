@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Cellulitis",
+        "image": "https://assets.nhs.uk/nhsuk-cms/images/C0215596-Cellulitis_of_the_foot-SPL.max-600x600.jpg",
+        "description": "Cellulitis is a bacterial skin infection causing pain, redness, swelling, blisters, and fever. It's usually superficial but can spread to lymph nodes and bloodstream, becoming life-threatening. Caused by bacteria entering breaks in the skin, anyone can get it, especially with weakened immune systems or wounds. Treatment involves a prescription oral antibiotic for 5 to 10 days, even if symptoms improve.",
+        "cure": "Cellulitis treatment includes a prescription oral antibiotic for 5 to 10 days, even if symptoms improve within three days. Prompt medical attention is crucial to prevent complications. Notify your healthcare provider if the infection responds to treatment. Maintaining proper hygiene and protecting the skin from injuries help prevent recurrence."
+    },
+    {
+        "name": "Impetigo",
+        "image": "https://m4b6f3p8.rocketcdn.me/app/uploads/2021/04/impetigo_23588_lg.jpg",
+        "description": "Impetigo is a highly contagious bacterial skin infection characterized by red sores that quickly rupture, ooze, and form crusts. It commonly affects children and spreads through close contact or contaminated items. Treatment involves antibiotic ointments or oral antibiotics prescribed by a doctor, along with keeping the affected areas clean and covered.",
+        "cure": "Treatment for impetigo often involves antibiotic ointments or oral antibiotics prescribed by a doctor. Keeping the affected areas clean and covered can help prevent the spread of the infection to others."
+    },
+    {
+        "name": "Athlete Foot",
+        "image": "https://i0.wp.com/images-prod.healthline.com/hlcmsresource/images/Image-Galleries/Athletes-Foot/athletes_foot_toe.jpg?w=1155",
+        "description": "Athlete's foot, or tinea pedis, is a fungal infection causing itching, burning, cracked, peeling skin on the feet. It spreads through direct contact or contact with contaminated surfaces. Treatment involves antifungal medications, either topical or oral, along with maintaining proper foot hygiene.",
+        "cure": "Athlete's foot treatment typically involves antifungal medications, either topical or oral. Keeping the feet clean and dry, wearing clean socks and shoes, and avoiding sharing personal items can help prevent recurrence and spread of the infection."
+    },
+    {
+        "name": "Nail Fungus",
+        "image": "https://edfdhhnqiuw.exactdn.com/wp-content/uploads/2020/05/nail-fungus.jpg?strip=all&lossy=1&ssl=1",
+        "description": "Nail fungus, or onychomycosis, is a fungal infection of the nails causing thick, discolored, brittle nails. It's more common in older adults and can be challenging to treat. Treatment involves long-term use of antifungal medications, either topical or oral, along with keeping the nails clean and trimmed.",
+        "cure": "Treatment for nail fungus often involves long-term use of antifungal medications, either topical or oral, along with keeping the nails clean and dry. Regular nail trimming and wearing breathable footwear help prevent recurrence."
+    },
+    {
+        "name": "Ringworm",
+        "image": "https://my.clevelandclinic.org/-/scassets/images/org/health/articles/4560-ringworm",
+        "description": "Ringworm, or dermatophytosis, is a fungal infection causing a red, circular rash with a scaly border. It's highly contagious and spreads through direct contact or touching contaminated surfaces. Treatment involves antifungal medications, either topical or oral, along with maintaining proper hygiene.",
+        "cure": "Treatment for ringworm typically involves antifungal medications, either topical or oral, to eliminate the infection. Keeping the affected area clean and dry and avoiding sharing personal items can help prevent the spread of the fungus to others."
+    },
+    {
+        "name": "Cutaneous Larva Migrans",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXpI1vvzUjr9i3Wyd0Pi1rEcBnt7orst1nwLxQrZ5E9g&s",
+        "description": "Cutaneous larva migrans, or creeping eruption, is a skin infection caused by hookworm larvae. It results in a red, winding rash that's intensely itchy. Infection occurs through contact with contaminated soil or sand. Treatment involves prescription medications to kill the larvae and relieve itching.",
+        "cure": "Treatment for cutaneous larva migrans involves prescription medications, such as albendazole or ivermectin, to kill the hookworm larvae. Antihistamines or topical corticosteroids may also be prescribed to relieve itching and inflammation."
+    },
+    {
+        "name": "Chickenpox",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Varicela_Aranzales.jpg",
+        "description": "Chickenpox is a highly contagious viral infection causing an itchy rash of red spots that progress to fluid-filled blisters and crust over. Other symptoms may include fever, headache, and fatigue. Treatment focuses on relieving symptoms with antihistamines, oatmeal baths, and pain relievers.",
+        "cure": "Treatment for chickenpox focuses on relieving symptoms, such as fever and itching, with antihistamines, oatmeal baths, and pain relievers. It's also essential to prevent scratching to avoid complications like bacterial skin infections. Vaccination is the best way to prevent chickenpox."
+    },
+    {
+        "name": "Shingles",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQHaRxDBC6GtAL_OZ7pW_X4dSwPOWjnZNDSjRPYquzTQ&s",
+        "description": "Shingles, or herpes zoster, is a viral infection causing a painful rash with fluid-filled blisters that occur in a band or cluster on one side of the body. It's caused by the reactivation of the varicella-zoster virus. Treatment involves antiviral medications to reduce severity and duration, along with pain management.",
+        "cure": "Treatment for shingles usually involves antiviral medications, such as acyclovir, valacyclovir, or famciclovir, to reduce the severity and duration of the outbreak. Pain relievers, antihistamines, and topical treatments may also be recommended to help manage symptoms and promote healing. Vaccination is available to prevent shingles in individuals over 50 years old."
+    }
+]

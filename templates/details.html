@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skin Disease Details</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(to bottom right, #00c6fb, #005bea);
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            background-color: rgba(255, 255, 255, 0.9);
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #333;
+            text-align: center;
+        }
+        .disease-info {
+            margin-top: 20px;
+        }
+        .disease-info img {
+            max-width: 100%;
+            display: block;
+            margin: 0 auto;
+            border-radius: 5px;
+            box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+        }
+        .description {
+            margin-top: 20px;
+            color: #333;
+            text-align: justify;
+        }
+        .cure {
+            margin-top: 20px;
+            color: #333;
+            text-align: justify;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Skin Disease Details</h1>
+        <div class="disease-info">
+            <img src="{{ data.image }}" alt="{{ data.name }}">
+            <div class="description">
+                <h2>{{ data.name }}</h2>
+                <h2>Confidence percentage {{ confidence }}%</h2>
+                <p>{{ data.description }}</p>
+            </div>
+            <div class="cure">
+                <h2>Cure</h2>
+                <p>{{ data.cure }}</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
